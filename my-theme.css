@@ -1,0 +1,6 @@
+@media (max-width: 767px) {
+    .layer .theme-dark,
+    .layer .theme-light {
+        background-color: blue !important;
+    }
+}

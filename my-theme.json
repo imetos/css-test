@@ -1,0 +1,11 @@
+{
+  "name": "My Discord Theme",
+  "version": "1.0.0",
+  "description": "A custom theme for Discord mobile",
+  "author": "imetos",
+  "license": "MIT",
+  "main": "my-theme.css",
+  "css": [
+    "my-theme.css"
+  ]
+}
